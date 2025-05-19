@@ -32,6 +32,7 @@ int main()
         cout<<"element not found";
     else
         cout<<"the element is present at "<<index;
+    return 0;
 }
 
 //array sorted in decreasing order
